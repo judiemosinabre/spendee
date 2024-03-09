@@ -13,6 +13,13 @@
   <li><strong>Delete Button for Transaction History</strong> - connected to database</li>
 
   <br>
+
+  <h4><strong>Upcoming Features:</strong></h4>
+  <p>[ after finals week ]</p>
+  <li><strong>Add Profile Picture</strong></li>
+  <li><strong>Add Friends</strong></li>
+  <li><strong>Show Friends list</strong></li>
+  <li><strong>Log out Button</strong></li>
   <h5>NOTE:</h5>
   <h6>if it wont run and shows that it was compiled on a lower jdk version, use JDK 1.8</h6>
  </div>
